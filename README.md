@@ -1,0 +1,1 @@
+﻿# QGIS Plate Analyzer Updates`n`nRepositorio publico de distribucion para actualizaciones del complemento QGIS Plate Analyzer.`n`nURL del repositorio QGIS:`n`nhttps://juanmartinez-design.github.io/qgis_plate_analyzer_updates/qgis_repo/plugins.xml
