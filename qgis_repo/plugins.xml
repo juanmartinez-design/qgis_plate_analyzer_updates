@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="QGIS Plate Analyzer - Análisis de placas" version="1.2.7">
+  <pyqgis_plugin name="QGIS Plate Analyzer - Análisis de placas" version="1.2.1">
     <description>Complemento QGIS con interfaz nativa PyQt tipo React, sin depender de QtWebEngine, para análisis de placas, conexión PostGIS y análisis de densidad.</description>
     <about>Versión ajustada para QGIS: recrea la interfaz tipo React/Vite del ZIP original con PyQt nativo para funcionar en instalaciones sin QtWebEngine.</about>
-    <version>1.2.7</version>
+    <version>1.2.1</version>
     <qgis_minimum_version>3.16</qgis_minimum_version>
-    <file_name>qgis_plate_analyzer.1.2.7.zip</file_name>
-    <download_url>https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo/qgis_plate_analyzer.1.2.7.zip</download_url>
-    <update_date>2026-07-21T18:28:37+00:00</update_date>
+    <file_name>qgis_plate_analyzer.1.2.1.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo/qgis_plate_analyzer.1.2.1.zip</download_url>
+    <update_date>2026-07-21T18:39:33+00:00</update_date>
     <author_name>Juan Andrés Martínez Moreno</author_name>
     <author_email>juan.martinez@gmail.com</author_email>
     <category>Vector</category>
