@@ -1,12 +1,12 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "zip_path": "qgis_repo_colombia\\analisis_de_densidad_importar_qgis.zip",
-  "versioned_zip_path": "qgis_repo_colombia\\analisis_de_densidad.1.4.zip",
+  "versioned_zip_path": "qgis_repo_colombia\\analisis_de_densidad.1.5.zip",
   "plugins_xml": "qgis_repo_colombia\\plugins.xml",
   "repository_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo_colombia/plugins.xml",
-  "download_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo_colombia/analisis_de_densidad.1.4.zip",
+  "download_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo_colombia/analisis_de_densidad.1.5.zip",
   "zip_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo_colombia/analisis_de_densidad_importar_qgis.zip",
-  "versioned_zip_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo_colombia/analisis_de_densidad.1.4.zip",
-  "update_date": "2026-08-11T16:06:25+00:00",
+  "versioned_zip_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo_colombia/analisis_de_densidad.1.5.zip",
+  "update_date": "2026-08-11T17:29:28+00:00",
   "notes": "Repositorio QGIS publicado para actualizacion automatica desde plugins.xml."
 }
