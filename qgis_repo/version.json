@@ -1,13 +1,13 @@
 {
-  "version": "1.17",
+  "version": "1.18",
   "zip_path": "qgis_repo\\qgis_plate_analyzer_importar_qgis.zip",
-  "versioned_zip_path": "qgis_repo\\qgis_plate_analyzer.1.17.zip",
+  "versioned_zip_path": "qgis_repo\\qgis_plate_analyzer.1.18.zip",
   "plugins_xml": "qgis_repo\\plugins.xml",
   "repository_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo/plugins.xml",
-  "download_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo/qgis_plate_analyzer.1.17.zip",
-  "zip_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo/qgis_plate_analyzer.1.17.zip",
+  "download_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo/qgis_plate_analyzer.1.18.zip",
+  "zip_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo/qgis_plate_analyzer.1.18.zip",
   "stable_zip_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo/qgis_plate_analyzer_importar_qgis.zip",
-  "versioned_zip_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo/qgis_plate_analyzer.1.17.zip",
-  "update_date": "2026-08-13T19:56:24+00:00",
+  "versioned_zip_url": "https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo/qgis_plate_analyzer.1.18.zip",
+  "update_date": "2026-08-13T21:48:39+00:00",
   "notes": "Repositorio QGIS publicado para actualizacion automatica desde plugins.xml."
 }
