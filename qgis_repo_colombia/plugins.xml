@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="Analisis de densidad" version="1.0">
+  <pyqgis_plugin name="Analisis de densidad" version="1.1">
     <description>Complemento QGIS con interfaz nativa PyQt para analisis de densidad, conexion PostGIS y procesamiento KDE.</description>
     <about>Versión ajustada para QGIS: recrea la interfaz tipo React/Vite del ZIP original con PyQt nativo para funcionar en instalaciones sin QtWebEngine.</about>
-    <version>1.0</version>
+    <version>1.1</version>
     <qgis_minimum_version>3.16</qgis_minimum_version>
-    <file_name>analisis_de_densidad.1.0.zip</file_name>
-    <download_url>https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo_colombia/analisis_de_densidad.1.0.zip</download_url>
-    <update_date>2026-08-24T14:19:37+00:00</update_date>
+    <file_name>analisis_de_densidad.1.1.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/juanmartinez-design/qgis_plate_analyzer_updates/main/qgis_repo_colombia/analisis_de_densidad.1.1.zip</download_url>
+    <update_date>2026-08-24T15:14:28+00:00</update_date>
     <author_name>Juan Andrés Martínez Moreno</author_name>
     <author_email>juan.martinez@gmail.com</author_email>
     <category>Vector</category>
